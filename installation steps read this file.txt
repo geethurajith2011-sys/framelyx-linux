@@ -1,0 +1,3 @@
+﻿Installation setup 
+ 
+installation is pretty simple run the .bat in windows or the .sh file in linux for install the  you must have the latest version of python. It is so simple after the installation in windows the .exe is in start menu and in the desktop and in linux it is in start menu. Also support our youtube channel dracoon editz and facts. Also this is my dream project and also the tutorial is in the youtube channel.1
